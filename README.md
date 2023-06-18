@@ -1,16 +1,15 @@
-### Welcome! 
-### Jacqueline B. Hynes - Research Projects
+### Welcome! Jacqueline B. Hynes - Research Projects
 
-## Neural Analysis Tools for Large-scale Neuronal Ensemble Recording Data
-  ### 2023 - Low-dimensional Neuron Maps using SIMNETS (Similarity Networks) Neural Analysis Toolbox 
+** Neural Analysis Methods for Large-scale Neural Recording Data**
+
+  ** 2023 - SIMNETS (Similarity Networks) Neural Analysis Toolbox**
     For Jupyter Notebook Tutorial, See: 
     For SIMNETS Matlab ToolBox Repo, See:  https://github.com/DonoghueLab/SIMNETS-Analysis-Toolbox
-
-  ### 2023 - Neural Encoding-Decoding Algorithms for Large-scale Population Recording Data
+    
+  ** 2023 - Neural Encoding-Decoding Algorithms for Large-scale Population Recording Data**
     
 
-
-### 2023 - Neural Encoding-Decoding Models for Large-scale Spikeing Populations data
+**2023 - Neural Encoding-Decoding Models for Large-scale Spikeing Populations data **
 For SSIMS Matlab ToolBox, See:https://github.com/DonoghueLab/SSIMS-Analysis-Toolbox
 
 
