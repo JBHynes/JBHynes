@@ -3,7 +3,7 @@
 ### Project: Neural Analysis Methods for Large-scale Neural Recording Data**
 
         **2023 - SIMNETS (Similarity Networks) Neural Analysis Toolbox**
-            For Jupyter Notebook Tutorial, See: 
+            For Jupyter Notebook Tutorial, See: https://github.com/JBHynes/juypter-notebook-tutorials
             For SIMNETS Matlab ToolBox Repo, See:  https://github.com/DonoghueLab/SIMNETS-Analysis-Toolbox
             
          **2023 - Neural Encoding-Decoding Algorithms for Large-scale Population Recording Data**
