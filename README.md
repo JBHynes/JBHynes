@@ -1,5 +1,5 @@
 ## Welcome! 
-## Jacqueline B. Hynes - Research Projects
+**Jacqueline B. Hynes - Research Projects**
 
 ### Project: Neural Analysis Methods for Large-scale Neural Recording Data**
 
