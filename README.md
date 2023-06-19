@@ -6,14 +6,14 @@
 
 1. SIMNETS (Similarity Networks) Neural Analysis Toolbox
    
-        - For Python based tutorial, see: https://github.com/JBHynes/juypter-notebook-tutorials
-        - For Python based toolbox, see: https://github.com/DonoghueLab/SIMNETS-Python) [!CURRENTLY PRIVATE!]
-        - For MATLAB based SIMNETS toolBox, see:  https://github.com/DonoghueLab/SIMNETS-Analysis-Toolbox
-        - MATLAB based SIMNETS tutorial, see:  https://github.com/DonoghueLab/SIMNETS-Analysis-Toolbox/SIMNETS_LiveTutorial.mlx
-              
+      - For Python based tutorial, see: https://github.com/JBHynes/juypter-notebook-tutorials
+      - For Python based toolbox, see: https://github.com/DonoghueLab/SIMNETS-Python) [!CURRENTLY PRIVATE!]
+      - For MATLAB based SIMNETS toolBox, see:  https://github.com/DonoghueLab/SIMNETS-Analysis-Toolbox
+      - MATLAB based SIMNETS tutorial, see:  https://github.com/DonoghueLab/SIMNETS-Analysis-Toolbox/SIMNETS_LiveTutorial.mlx
+     
 2. Neural Encoding-Decoding Algorithms for Large-scale Neural Recording Data
    
-        - For SSIMS Matlab ToolBox, see:https://github.com/DonoghueLab/SSIMS-Analysis-Toolbox
-
+      - For SSIMS Matlab ToolBox, see:https://github.com/DonoghueLab/SSIMS-Analysis-Toolbox
+      
 
 
