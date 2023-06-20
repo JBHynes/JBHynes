@@ -6,7 +6,7 @@
 
 1. SIMNETS (Similarity Networks) Neural Analysis Toolbox
    
-      - For Python SIMNETS tutorial, see: https://github.com/JBHynes/juypter-notebook-tutorials/blob/main/SIMNETS%20py%20tutorial/SIMNETS_Py_demo_simData.ipynb
+      - For Python SIMNETS tutorial, see: https://github.com/JBHynes/juypter-notebook-tutorials/blob/main/SIMNETS%20py%20tutorial/
       - For MATLAB SIMNETS tutorial, see:  https://github.com/DonoghueLab/SIMNETS-Analysis-Toolbox/SIMNETS_LiveTutorial.mlx
      
 2. Neural Encoding-Decoding Algorithms for Large-scale Neural Recording Data
