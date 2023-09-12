@@ -3,7 +3,7 @@
 #### The Complex Adaptive Brain: Neurocomputational Mechanism and Principles of Intelligence. 
 
 
-** Overview: ** 
+#### Overview:
 This page highlights a couple of academic research projects on the topic of "Neuroinformatics Tools for Inteprepting the Structure-Function Relationship of Multi-scale Biological Neuronal Networks" 
 
 ##### 2023 Project: SIMNETS Neural Analysis Methods for mapping neuron relationships from Large-scale Neural Recording Data
