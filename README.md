@@ -1,6 +1,8 @@
 ## Welcome! 
-## Jacqueline B. Hynes - Neurocomputational mechanism and principles of Intelligence. 
-###  Neuroinformatics Tools for Inteprepting the Structure-Function Relationship of Spiking Neuronal Networks  **
+## Jacqueline B. Hynes - The Complex Adaptive Brain: Neurocomputational Mechanism and Principles of Intelligence. 
+
+
+### Academic Research Projects: Neuroinformatics Tools for Inteprepting the Structure-Function Relationship of Multi-scale Biological Neuronal Networks **
 
 #### 2023 Project: SIMNETS Neural Analysis Methods for mapping neuron relationships from Large-scale Neural Recording Data
 <img width="1737" alt="Screen Shot 2022-10-23 at 7 55 32 PM" src="https://user-images.githubusercontent.com/29176759/197424575-b2c940d1-7b19-4b47-a9ef-6082f6e24fa8.png">
