@@ -4,7 +4,7 @@
 
 
 #### Overview:
-This page highlights a couple of academic research projects on the topic of "Neuroinformatics Tools for Inteprepting the Structure-Function Relationship of Multi-scale Biological Neuronal Networks" 
+This page highlights a couple of academic research projects on the topic of "Neuroinformatics Tools for Vizualizing and Inteprepting Computationally-relevant Latent Representations in Spiking Neuronal Populations" 
 
 ##### 2023 Project: SIMNETS Neural Analysis Methods for mapping neuron relationships from Large-scale Neural Recording Data
 <img width="1737" alt="Screen Shot 2022-10-23 at 7 55 32 PM" src="https://user-images.githubusercontent.com/29176759/197424575-b2c940d1-7b19-4b47-a9ef-6082f6e24fa8.png">
