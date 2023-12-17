@@ -1,5 +1,5 @@
 ## Welcome! 
-## Jacqueline B. Hynes (jacqueline_hynes@brown.edu) NeuroAI, Vision-Action Models,and Brain-Computer Interfaces. 
+## Jacqueline B. Hynes NeuroAI, Vision-Action Models,and Brain-Computer Interfaces. 
 #### The Complex Adaptive Brain: Neurocomputational Mechanism and Principles of Intelligence.  
 
 
