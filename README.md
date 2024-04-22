@@ -9,8 +9,7 @@ This page highlights a couple of academic research projects on the topic of "Neu
 ##### 2023 Project: SIMNETS Neural Analysis Methods for Mapping Neuron Relationships from Large-scale Neural Recording Data
 <img width="1737" alt="Screen Shot 2022-10-23 at 7 55 32 PM" src="https://user-images.githubusercontent.com/29176759/197424575-b2c940d1-7b19-4b47-a9ef-6082f6e24fa8.png">
 
-Application: SfN Research Presentation
-<img width="1737" alt=" " src=" ">
+
 
 1. SIMNETS (Similarity Networks) Neural Analysis Toolbox from our paper (Cell Press iScience: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554596; bioRxiv: doi.org/10.1101/463364)
    
